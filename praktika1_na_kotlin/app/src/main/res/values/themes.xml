@@ -1,9 +1,0 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Praktika1_na_kotlin" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-    </style>
-
-    <style name="Theme.Praktika1_na_kotlin" parent="Base.Theme.Praktika1_na_kotlin" />
-</resources>
